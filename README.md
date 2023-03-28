@@ -34,6 +34,6 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
           
   
 <br />
-#
+
 
 
