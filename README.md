@@ -2,7 +2,7 @@
  
 # :sunglasses: Yifan Lin
 
-**`Full Stack Developer, Infrastructure, DevOps`**
+**`Full Stack Developer, Infrastructure, DevOps, Cloud`**
 
 I'm an full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
